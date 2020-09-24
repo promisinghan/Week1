@@ -2,7 +2,7 @@
 
 #  Week1 project
 
-## Week1 projectis going to be here. 
+## Week1 project is going to be here. 
 
 
 `python`
