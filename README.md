@@ -1,8 +1,8 @@
 # Week1
 
-#  Week1 project
+#  Week1 task
 
-## Week1 project is going to be here. 
+## Week1 task is going to be here. 
 
 
 `python`
