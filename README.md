@@ -9,7 +9,9 @@ Task: Creating a more focused case study that analyzes how a FinTech company is 
 
 3. Conducting research - case study
 
-# TITLE
+# Title: Robinhood Case Study
+![Robinhood](   )
+
 
 ## Overview and Origin
 
