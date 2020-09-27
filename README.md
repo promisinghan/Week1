@@ -118,7 +118,7 @@ I would suggest Robinhood to offer Robo-advisory feature to its customers to be 
 
 ```
 ```
-###*References*
+*References*
 
 - https://careers.robinhood.com
 - https://en.wikipedia.org/wiki/Robinhood_(company)
